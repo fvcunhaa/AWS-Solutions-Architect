@@ -1,4 +1,4 @@
-# AWS Batch – Documentação de Estudo
+# AWS Batch
 
 **Serviço:** AWS Batch  
 **Categoria:** Computação / Processamento em lote  
