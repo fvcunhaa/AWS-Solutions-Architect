@@ -1,4 +1,4 @@
-# AWS Serverless Application Repository – Documentação de Estudo
+# AWS Serverless Application Repository
 
 **Serviço:** AWS Serverless Application Repository  
 **Categoria:** Computação / Serverless / Reutilização de aplicações  
