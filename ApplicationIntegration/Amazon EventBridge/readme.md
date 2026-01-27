@@ -169,3 +169,9 @@ Esta arquitetura demonstra um padrão de **retry customizado para consumidores s
 | Ideal para | Integração desacoplada e real-time |
 | Destinos | Lambda, SQS, SNS, Step Functions |
 
+## Observações Finais
+
+O Amazon EventBridge é um componente essencial para arquiteturas modernas baseadas em eventos. Ele permite criar sistemas **desacoplados, resilientes e escaláveis**, reduzindo dependências diretas entre serviços e facilitando a evolução da arquitetura.
+
+Quando combinado com padrões como retry customizado e DLQ, torna-se uma base sólida para workloads críticos em ambientes serverless.
+
