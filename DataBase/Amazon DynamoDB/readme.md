@@ -1,5 +1,4 @@
-# Amazon DynamoDB – Documentação de Estudo
-
+# Amazon DynamoDB 
 **Serviço:** Amazon DynamoDB  
 **Categoria:** Banco de Dados / NoSQL / Chave-Valor e Documentos  
 **Documentação oficial:** https://aws.amazon.com/pt/dynamodb/
