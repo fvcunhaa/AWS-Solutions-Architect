@@ -11,11 +11,11 @@ Os serviços estudados aqui são:
 
 Esses serviços suportam desde a construção da aplicação até testes e comunicação com usuários finais.
 
----
+
 
 # Serviços Abordados
 
----
+
 
 ## 🟢 AWS Amplify
 
@@ -35,7 +35,7 @@ Plataforma full-stack da AWS para desenvolvimento rápido de aplicações Web e 
 - Projetos serverless
 - MVPs com entrega rápida
 
----
+
 
 ## 🔵 Amazon API Gateway
 
@@ -55,7 +55,7 @@ Serviço gerenciado para criação, publicação e gerenciamento de APIs REST, H
 - Integração entre sistemas
 - APIs públicas ou privadas
 
----
+
 
 ## 🟣 AWS Device Farm
 
@@ -75,7 +75,7 @@ Serviço para testes automatizados de aplicações mobile e web em dispositivos 
 - Compatibilidade entre dispositivos
 - Garantia de qualidade em apps mobile
 
----
+
 
 ## 🟠 Amazon Pinpoint
 
@@ -96,7 +96,7 @@ Serviço de engajamento de clientes para comunicação omnichannel.
 - Comunicação transacional
 - Engajamento de usuários
 
----
+
 
 # Arquitetura Moderna de Front-End na AWS
 
@@ -109,7 +109,7 @@ Modelo comum envolvendo esses serviços:
 5. Testes automatizados via Device Farm
 6. Comunicação com usuários via Pinpoint
 
----
+
 
 # Boas Práticas
 
@@ -133,7 +133,7 @@ Modelo comum envolvendo esses serviços:
 - Monitore métricas de campanha
 - Evite spam e excesso de notificações
 
----
+
 
 # Público-Alvo
 
@@ -143,7 +143,7 @@ Modelo comum envolvendo esses serviços:
 - Engenheiros DevOps
 - Arquitetos Cloud
 
----
+
 
 # Observações Finais
 
