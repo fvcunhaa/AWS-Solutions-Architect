@@ -9,7 +9,7 @@ O objetivo é fornecer uma visão clara das soluções disponíveis para constru
 - Aplicações Serverless com front-end desacoplado
 - Experiências omnichannel
 
----
+
 
 ## 🎯 Visão Geral
 
@@ -24,7 +24,7 @@ A AWS oferece serviços que suportam toda a camada de front-end, incluindo:
 
 Esses serviços permitem criar aplicações altamente escaláveis, seguras e distribuídas globalmente.
 
----
+
 
 ## 🧠 Serviços Abordados
 
@@ -40,7 +40,6 @@ Plataforma para desenvolvimento full-stack com foco em front-end.
 
 📂 Pasta: `aws-amplify/`
 
----
 
 ### 🔵 Amazon CloudFront
 Rede de distribuição de conteúdo (CDN).
@@ -53,7 +52,7 @@ Rede de distribuição de conteúdo (CDN).
 
 📂 Pasta: `amazon-cloudfront/`
 
----
+
 
 ### 🟣 Amazon S3 (Static Hosting)
 Hospedagem de sites estáticos.
@@ -66,7 +65,7 @@ Hospedagem de sites estáticos.
 
 📂 Pasta: `amazon-s3-static-hosting/`
 
----
+
 
 ### 🟠 Amazon API Gateway
 Exposição de APIs para consumo web e mobile.
@@ -79,7 +78,7 @@ Exposição de APIs para consumo web e mobile.
 
 📂 Pasta: `amazon-api-gateway/`
 
----
+
 
 ### 🟡 AWS AppSync
 API GraphQL gerenciada.
@@ -92,7 +91,7 @@ API GraphQL gerenciada.
 
 📂 Pasta: `aws-appsync/`
 
----
+
 
 ### 🔴 Amazon Cognito
 Serviço de autenticação e gerenciamento de usuários.
@@ -105,26 +104,33 @@ Serviço de autenticação e gerenciamento de usuários.
 
 📂 Pasta: `amazon-cognito/`
 
----
+
 
 ### 🟤 AWS Device Farm
 Testes automatizados para aplicações mobile.
 
 📂 Pasta: `aws-device-farm/`
 
----
+
 
 ## 🏗️ Organização do Diretório
 
 Estrutura sugerida:
 .
 ├── aws-amplify/
+
 ├── amazon-cloudfront/
+
 ├── amazon-s3-static-hosting/
+
 ├── amazon-api-gateway/
+
 ├── aws-appsync/
+
 ├── amazon-cognito/
+
 ├── aws-device-farm/
+
 └── README.md
 
 
@@ -137,7 +143,7 @@ Cada serviço seguirá o padrão:
 - Boas Práticas
 - Observações Finais
 
----
+
 
 ## 🔄 Arquitetura Moderna de Front-End na AWS
 
@@ -158,7 +164,7 @@ Esse modelo permite:
 - Alta disponibilidade
 - Deploy contínuo
 
----
+
 
 ## 📌 Boas Práticas Gerais
 
@@ -169,7 +175,7 @@ Esse modelo permite:
 - Automatize deploy com Amplify ou CodePipeline
 - Habilite WAF quando exposto publicamente
 
----
+
 
 ## 📚 Público-Alvo
 
@@ -181,7 +187,7 @@ Este material é indicado para:
 - DevOps Engineers
 - Arquitetos Cloud
 
----
+
 
 ## ✍️ Observações Finais
 
