@@ -63,7 +63,8 @@ Quando um alarme entra em estado **ALARM**, o CloudWatch pode:
 
 ## 3. Arquitetura
 
-<img width="675" height="442" alt="image" src="https://github.com/user-attachments/assets/ca234291-3796-476e-8e43-c5174fd512d5" /
+<img width="675" height="442" alt="image" src="https://github.com/user-attachments/assets/b2f2a923-5a7a-4195-a975-3aa6896789a1" />
+
 
 ### 3.1 Componentes
 
